@@ -23,9 +23,16 @@ li{
     font-size: 18px;
 }
 img{
-    width:200px;
+    width:400px;
     height:auto;
 }
 body{
     margin:0;
+}
+.container1{
+    display:flex
+}
+.left{
+max-width: 600px;
+padding: 20px 40px 90px 500px;
 }

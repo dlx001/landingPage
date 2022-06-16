@@ -1,3 +1,6 @@
 .top{
     background-color: #1f2937;
 }
+.div.header{
+    display:flex;
+}

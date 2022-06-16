@@ -14,12 +14,9 @@
     display: flex;
     justify-content:space-around;
     gap: 50px;
-}
-ul{
-    list-style: none;
-    display: flex;
     margin:0;
     padding:0;
+    list-style: none;
 }
 li{
     color:#e5e7eb;

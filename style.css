@@ -11,6 +11,7 @@
     width: 500px;
 }
 .h2{
+    flex-wrap:wrap;
     font: 18px, #e5e7eb;
     width:100px;
     justify-content:space-around;

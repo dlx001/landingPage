@@ -2,15 +2,19 @@
     background-color: #1f2937;
 }
 .top .header{
-    height:200px;
+    display:flex;
+    height:30px;
 }
 #headerLogo{
-    font: 24 px, #F9FAF8;
-    width: 500px;
+    color:#F9FAF8;
+    font-size: 24px;
+    width: 200px;
 }
-.top .header .h2{
-    flex-wrap:wrap;
-    font: 18px, #e5e7eb;
-    width:100px;
+.header ul{
+    display: flex;
     justify-content:space-around;
+}
+ul{
+    color:#e5e7eb;
+    font-size: 18px;
 }

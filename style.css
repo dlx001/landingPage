@@ -15,6 +15,18 @@
     justify-content:space-around;
 }
 ul{
+    display: flex;
+    margin:0;
+    padding:0;
+}
+li{
     color:#e5e7eb;
     font-size: 18px;
+}
+img{
+    width:200px;
+    height:auto;
+}
+body{
+    margin:0;
 }

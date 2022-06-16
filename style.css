@@ -3,9 +3,9 @@
 }
 .top .header{
     display:flex;
-    height:30px;
+    padding: 9px;
 }
-#headerLogo{
+.Logo{
     color:#F9FAF8;
     font-size: 24px;
     width: 200px;

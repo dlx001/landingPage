@@ -8,8 +8,11 @@
 }
 #headerLogo{
     font: 24 px, #F9FAF8;
+    width: 500px;
 }
 .h2{
     font: 18px, #e5e7eb;
+    width:100px;
     justify-content:space-around;
+    
 }

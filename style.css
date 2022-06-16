@@ -8,13 +8,14 @@
 .Logo{
     color:#F9FAF8;
     font-size: 24px;
-    width: 200px;
+    padding: 0px 300px 0px 60px 
 }
 .header ul{
     display: flex;
     justify-content:space-around;
 }
 ul{
+    list-style: none;
     display: flex;
     margin:0;
     padding:0;

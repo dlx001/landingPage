@@ -1,4 +1,4 @@
-.top{
+/*.top{
     background-color: #1f2937;
 }
 .top .header{
@@ -36,3 +36,86 @@ body{
 max-width: 600px;
 padding: 20px 40px 90px 500px;
 }
+*/
+.top{
+    background-color: #1f2937;
+}
+.Logo{
+    color:#F9FAF8;
+    font-size: 24px;
+    width: 30%;
+    padding: 0px 60px 0px 0px;
+}
+li{
+    color:#e5e7eb;
+    font-size: 18px;
+}
+ul{
+    display: flex;
+    justify-content:space-around;
+    list-style: none;
+}
+.container2 .heading{
+    font-weight: extra-bold;
+    color:#F9FAF8;
+    font-size: 48px;
+    width: 30%;
+    padding: 0% 0% 0% 20%
+}
+.container2 p{
+    font-size: 18px;
+    color:#e5e7eb;
+}
+button{
+    background-color: #3882f6;
+    border-radius: 30%;
+    font-size: 18px;
+    color:#e5e7eb
+}
+.container3 .header{
+font-size: 36px;
+color:#1f2937;
+font-weight: extra-bold;
+width:100%;
+}
+.box-items{
+    display:flex;
+    justify-content: space-evenly;
+}
+.container3 .border{
+    height:100px;
+    width:100px;
+    border-radius: 15%;
+    border-color: #3882f6;
+}
+.container3 p{
+    width: 100px; 
+    text-align: center;
+}
+.container4{
+    color: #e5e7eb
+}
+.container4 p{
+font-weight: light italic;
+font-size: 36px;
+color: #1f2937
+}
+.container5{
+    width:60%;
+    padding:5% 10% 5% 10%;
+    display: flex;
+    justify-content: space-around;
+}
+.container5 button{
+    border-radius: 10%;
+    color:#e5e7eb;
+    border-color:#e5e7eb;
+}
+.container6{
+    background-color:#1f2937
+}
+.container6 p{
+    font-size: 8px;
+    color:#e5e7eb
+}
+

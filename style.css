@@ -37,6 +37,9 @@ max-width: 600px;
 padding: 20px 40px 90px 500px;
 }
 */
+.container1{
+    display: flex;
+}
 .top{
     background-color: #1f2937;
 }
@@ -115,10 +118,11 @@ color: #1f2937
     padding:5% 10% 5% 10%;
     display: flex;
     justify-content: space-around;
+    background-color: #3882f6;
 }
 .container5 button{
     border-radius: 10%;
-    color:#e5e7eb;
+    color:#3882f6;
     border-color:#e5e7eb;
 }
 .container6{
